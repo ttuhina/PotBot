@@ -181,3 +181,34 @@ PotBot uses Razorpay for payment processing. It creates payment orders and verif
 - [Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)
 - [Azure Language Understanding](https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/overview)
 
+## Working Screenshots 
+**Introductory messages**:
+
+![Introductory messages](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/intro-message-1.png)
+![Introductory messages](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/intro-message-2.png)
+
+**Restaurant recommendation and filtering**:
+
+![](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/restaurant-recommendation.png)
+
+**Menu display**:
+
+![menu display](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/menu-display.png)
+
+**Reviews and description viewing**:
+
+![review/description](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/reviews-description.png)
+
+**Reservation process**:
+
+![reservation](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/reserve-process-1.png)
+![reservation](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/reserve-process-2.png)
+
+**Ordering Process**:
+
+![ordering](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/order-process-1.png)
+![ordering](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/order-process-2.png)
+![ordering](https://github.com/ttuhina/PotBot/blob/main/working%20screenshots/order-process-3.png)
+
+
+
