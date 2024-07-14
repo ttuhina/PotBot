@@ -174,9 +174,10 @@ PotBot uses Razorpay for payment processing. It creates payment orders and verif
 ## Future Improvements
 
 - Implement user authentication
-- Enhance error handling and input validation
+- Deploy the bot on azure
+- More robust error handling and input validation
 - Add more sophisticated natural language processing
-- Expand payment options
+- Build the payment model further
 - Implement a loyalty program
 
 ## Resources
