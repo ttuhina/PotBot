@@ -80,6 +80,10 @@ Sign-Up Page :
 A MySQL database was preffered for this project, as structured tables with dependencies amongst each other were required.
 The project uses a MySQL database named `restaurant_bot` with the following table structure:
 
+
+![E-R DIAGRAM](https://github.com/ttuhina/PotBot/blob/main/erdiagram.png)
+
+
 ### Tables
 
 1. **restaurants**
