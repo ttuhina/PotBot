@@ -77,7 +77,7 @@ Sign-Up Page :
 - CSS
   
 ## Database Structure
-
+A MySQL database was preffered for this project, as structured tables with dependencies amongst each other were required.
 The project uses a MySQL database named `restaurant_bot` with the following table structure:
 
 ### Tables
@@ -137,7 +137,10 @@ Note: Ensure that your database connection settings in `api.js` match your local
 3. Set up your MySQL database using XAMPP and phpMyAdmin
 4. Configure your database connection in `api.js`
 5. Start the server: `node index.js` and `node api.js`.
-7. Start Apache and MySQL in the XAMPP server.
+7. Start Apache and MySQL in the XAMPP panel.
+8. Install microsoft bot framework sdk from link given below, in references.
+9. Open microsoft bot framework sdk and open the bot by going to the link http://localhost:3978/api/messages.
+10. Test the bot further.
 
 ## API Endpoints
 
