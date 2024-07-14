@@ -29,7 +29,7 @@ Sign-Up Page :
 2. **Menu Exploration**:
    - View digital menus with descriptions and ratings.
    - The `/api/restaurant/menu` endpoint in `api.js` fetches menu information.
-   - Menus are stored as image URLs in the `restaurants` table for visual appeal.
+   - Menus are stored as image URLs in the `restaurants` table, as an image-based menu is more visually appealing to a user than a  plain text-based menu.
 
 3. **Reservation Management**:
    - Make and manage reservations with special requests.
